@@ -1,0 +1,9 @@
+numpy
+cupy-cuda12x[ctk]
+opencv-python
+matplotlib
+scikit-image
+pyyaml>=6.0.3
+torch
+torchvision
+visualtorch
